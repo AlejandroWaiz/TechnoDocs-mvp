@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: techdocs-demo
+  description: API MVP de ejemplo
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/AlejandroWaiz/TechnoDocs-mvp
+spec:
+  type: service
+  owner: equipo-dev
+  lifecycle: experimental
