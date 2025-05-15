@@ -4,7 +4,7 @@ metadata:
   name: techdocs-demo
   description: API MVP de ejemplo
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/AlejandroWaiz/TechnoDocs-mvp/main
+    backstage.io/techdocs-ref: url:https://github.com/AlejandroWaiz/TechnoDocs-mvp
 spec:
   type: service
   owner: equipo-dev
