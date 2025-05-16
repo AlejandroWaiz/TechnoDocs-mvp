@@ -1,0 +1,32 @@
+{
+  "quadrants": [
+    { "id": "languages",    "name": "Languages" },
+    { "id": "frameworks",   "name": "Frameworks" },
+    { "id": "infra",        "name": "Infrastructure" },
+    { "id": "process",      "name": "Processes" }
+  ],
+  "rings": [
+    { "id": "use",    "name": "Use" },
+    { "id": "trial",  "name": "Trial" },
+    { "id": "assess", "name": "Assess" },
+    { "id": "hold",   "name": "Hold" }
+  ],
+  "entries": [
+    {
+      "id": "techdocs",
+      "title": "Backstage TechDocs",
+      "quadrant": "frameworks",
+      "ring": "use",
+      "moved": 0,
+      "url": "https://backstage.io/docs/features/techdocs/what-is-techdocs"
+    },
+    {
+      "id": "react",
+      "title": "React",
+      "quadrant": "languages",
+      "ring": "use",
+      "moved": 0,
+      "url": "https://reactjs.org"
+    }
+  ]
+}
