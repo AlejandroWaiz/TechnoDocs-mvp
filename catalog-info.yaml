@@ -5,6 +5,9 @@ metadata:
   description: API MVP de ejemplo
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/AlejandroWaiz/TechnoDocs-mvp
+
+    backstage.io/techradar-ref: url:https://github.com/AlejandroWaiz/TechnoDocs-mvp/blob/main/radar.json
+
 spec:
   type: service
   owner: equipo-dev
